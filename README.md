@@ -10,7 +10,7 @@ Mi experiencia en operaciones me ha enseñado disciplina, responsabilidad y trab
 
 Estoy en búsqueda de oportunidades para seguir aprendiendo, aportar valor y construir mi camino como desarrollador.
 # Hoja de Vida
-![Texto alternativo](<img width="1024" height="1024" alt="magnific__esports-mascot-logo-a-cartoon-programmer-in-a-dark__3002" src="https://github.com/user-attachments/assets/0a0f49fc-a5c2-448e-865e-7b187a3263a9" />
+![555](<img width="1024" height="1024" alt="program" src="https://github.com/user-attachments/assets/fbd8efd1-7e63-41a2-b71f-34eb5c9f47a3" />
 )
 
 ## Kevin Santiago Becerra Alavarez
